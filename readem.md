@@ -21,3 +21,6 @@ one more thing!
 <body>
     <div class="footer">All Rights Reserved</div>
 </body>
+
+
+mais novidades
